@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VoltA Pin=TP4-1
+Removed Pin From Net: NetName=VoltB Pin=TP5-1
+Removed Pin From Net: NetName=VoltC Pin=TP6-1
+Removed Member From Class: ClassName=Connectors & LEDs Member=TP4
+Removed Member From Class: ClassName=Connectors & LEDs Member=TP5
+Removed Member From Class: ClassName=Connectors & LEDs Member=TP6

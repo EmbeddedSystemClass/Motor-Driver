@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=V_BATT Pin=C10-1
+Removed Pin From Net: NetName=SNA Pin=C10-2
+Removed Pin From Net: NetName=V_BATT Pin=C11-1
+Removed Pin From Net: NetName=SNA Pin=C11-2
+Removed Pin From Net: NetName=V_BATT Pin=C12-1
+Removed Pin From Net: NetName=SNA Pin=C12-2
+Removed Member From Class: ClassName=Gate Driver & H-Bridge Member=C10
+Removed Member From Class: ClassName=Gate Driver & H-Bridge Member=C11
+Removed Member From Class: ClassName=Gate Driver & H-Bridge Member=C12

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=INLA Pin=J3-1
+Removed Pin From Net: NetName=INHA Pin=J3-2
+Removed Pin From Net: NetName=SNA Pin=J3-19
+Removed Pin From Net: NetName=INHC Pin=J3-21
+Removed Pin From Net: NetName=INLC Pin=J3-22
+Removed Pin From Net: NetName=INHB Pin=J3-23
+Removed Pin From Net: NetName=INLB Pin=J3-24
+Added Pin To Net: NetName=INLC Pin=J3-19
+Added Pin To Net: NetName=INHC Pin=J3-20
+Added Pin To Net: NetName=INLB Pin=J3-21
+Added Pin To Net: NetName=INHB Pin=J3-22
+Added Pin To Net: NetName=INLA Pin=J3-23
+Added Pin To Net: NetName=INHA Pin=J3-24
+Added Room: Name=3.3V Regulator
+Added Room: Name=Connectors & LEDs
+Added Room: Name=Gate Driver & H-Bridge

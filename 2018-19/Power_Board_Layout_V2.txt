@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : E:\Projects\Ecar Team\Board Files\BLDC_Power_Board\Power_Board_Layout_V2.PcbDoc
+Date         : 2/3/2019
+Time         : 9:52:24 AM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 3500milsx4000mils
+    Components on board, 65
+count : 2

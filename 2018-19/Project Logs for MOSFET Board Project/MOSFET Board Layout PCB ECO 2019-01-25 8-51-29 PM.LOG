@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=SHA Pin=F2-2
+Removed Pin From Net: NetName=SHA Pin=F2-2
+Removed Pin From Net: NetName=SHB Pin=F3-2
+Removed Pin From Net: NetName=SHB Pin=F3-2
+Added Pin To Net: NetName=SHB Pin=F2-2
+Added Pin To Net: NetName=SHB Pin=F2-2
+Added Pin To Net: NetName=SHA Pin=F3-2
+Added Pin To Net: NetName=SHA Pin=F3-2

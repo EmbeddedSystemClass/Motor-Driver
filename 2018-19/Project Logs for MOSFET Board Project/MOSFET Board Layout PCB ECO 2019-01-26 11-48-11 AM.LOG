@@ -1,0 +1,17 @@
+Change component parameters: Designator = "U2"; Footprint = "QFN50P700X700X100_HS-49N"; UniqueID = "\WFGBPDNN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Gate Driver"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ca/product-detail/en/texas-instruments/DRV8323RSRGZT/296-46943-1-ND/7356148"; VariantName = "[No Variations]"
+Added Component: Designator=U1(SOT95P280X110-6N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "3.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ca/product-detail/en/texas-instruments/TPS54308DDCR/296-47880-2-ND/7400123"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SNA Pin=U1-1
+Added Pin To Net: NetName=NetC1_2 Pin=U1-2
+Added Pin To Net: NetName=V_BATT Pin=U1-3
+Added Pin To Net: NetName=NetR1_2 Pin=U1-4
+Added Pin To Net: NetName=NetC1_1 Pin=U1-6
+Added Member To Class: ClassName=3.3V Regulator Member=Component U1 TPS54308DDCR
+Added Room: Name=3.3V Regulator
+Added Room: Name=Connectors & LEDs
+Added Room: Name=Gate Driver & H-Bridge

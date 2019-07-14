@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=C3 Old Footprint=0805 Cap New Footprint=CAPC2012X06N
+Added Pin To Net: NetName=SNA Pin=C3-1
+Added Pin To Net: NetName=3.3V Pin=C3-2

@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=SNA Pin=U2-47
+Removed Pin From Net: NetName=SNA Pin=U2-48
+Added Component: Designator=W1(SMD Jumper)
+Add component. Clean all parameters for all variants
+Added Component: Designator=W2(SMD Jumper)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=SNA Pin=W1-1
+Added Pin To Net: NetName=SNA Pin=W2-1
+Added Pin To Net: NetName=NetU2_47 Pin=U2-47
+Added Pin To Net: NetName=NetU2_47 Pin=W1-2
+Added Net: Name=NetU2_47
+Added Pin To Net: NetName=NetU2_48 Pin=U2-48
+Added Pin To Net: NetName=NetU2_48 Pin=W2-2
+Added Net: Name=NetU2_48

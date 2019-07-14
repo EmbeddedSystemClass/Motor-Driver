@@ -1,0 +1,23 @@
+Change Component Designator: OldDesignator=TP1 (3.3V) NewDesignator=TP1
+Change component parameters: Designator = "U1"; UniqueID = "\JVRISLYS"
+Change component parameters. Clean all parameters for all variants
+Added Component: Designator=J2(Hirose 4-pos)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "4-pos"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ca/product-detail/en/hirose-electric-co-ltd/DF3A-4P-2DSA/H2096-ND/141518"; VariantName = "[No Variations]"
+Added Component: Designator=J6(Hirose 5-pos)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "5-pos Hirose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.ca/product-detail/en/hirose-electric-co-ltd/DF3A-5P-2DSA/H2097-ND/141521"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=HALL_A Pin=J2-1
+Added Pin To Net: NetName=HALL_B Pin=J2-2
+Added Pin To Net: NetName=HALL_C Pin=J2-3
+Added Pin To Net: NetName=SNA Pin=J2-4
+Added Pin To Net: NetName=3.3V Pin=J6-1
+Added Pin To Net: NetName=NetJ6_2 Pin=J6-2
+Added Pin To Net: NetName=NetJ6_3 Pin=J6-3
+Added Pin To Net: NetName=NetJ6_4 Pin=J6-4
+Added Pin To Net: NetName=SNA Pin=J6-5
+Added Member To Class: ClassName=Connectors & LEDs Member=Component J2 Hirose 4-pos
+Added Member To Class: ClassName=Connectors & LEDs Member=Component J6 5-Pos
+Added Room: Name=3.3V Regulator

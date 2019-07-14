@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=V_BATT Pin=TP2-1
+Removed Member From Class: ClassName=Connectors & LEDs Member=TP2
+Added Room: Name=3.3V Regulator
+Added Room: Name=Connectors & LEDs
+Added Room: Name=Gate Driver & H-Bridge

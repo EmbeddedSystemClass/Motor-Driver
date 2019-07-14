@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=3.3V Pin=+3.3V-1
+Removed Member From Class: ClassName=3.3V Regulator Member=+3.3V
+Change Component Designator: OldDesignator=+3.3V NewDesignator=D2
+Change Component Designator: OldDesignator=V_BATT NewDesignator=D1
+Added Room: Name=3.3V Regulator
+Added Room: Name=Connectors & LEDs
+Added Room: Name=Gate Driver & H-Bridge

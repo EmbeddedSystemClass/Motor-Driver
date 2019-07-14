@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=+3.3V Pin=J3-3
+Added Pin To Net: NetName=+3.3V Pin=J3-1
+Added Pin To Net: NetName=SNA Pin=J3-2
+Added Room: Name=3.3V Regulator
+Added Room: Name=Connectors & LEDs
+Added Room: Name=Gate Driver & H-Bridge
