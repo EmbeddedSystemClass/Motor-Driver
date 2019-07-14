@@ -1,0 +1,135 @@
+WARNING (line   18) - IBIS files should not contain tab characters.
+NOTE (line 1398) - POWER Clamp Typical data is non-monotonic
+NOTE (line 1398) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 1400) - POWER Clamp Minimum data is non-monotonic
+NOTE (line 1620) - POWER Clamp Typical data is non-monotonic
+NOTE (line 1620) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 1622) - POWER Clamp Minimum data is non-monotonic
+NOTE (line 1851) - POWER Clamp Typical data is non-monotonic
+NOTE (line 1851) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 1853) - POWER Clamp Minimum data is non-monotonic
+NOTE (line 2177) - POWER Clamp Typical data is non-monotonic
+NOTE (line 2177) - POWER Clamp Minimum data is non-monotonic
+NOTE (line 2177) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 2220) - Pulldown Typical data is non-monotonic
+NOTE (line 2221) - Pulldown Maximum data is non-monotonic
+NOTE (line 2224) - Pulldown Minimum data is non-monotonic
+NOTE (line 2773) - POWER Clamp Typical data is non-monotonic
+NOTE (line 2773) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 2775) - POWER Clamp Minimum data is non-monotonic
+WARNING -
+    Model BT_WEAK_PD_ON_3P3: POWER Clamp : Maximum value never becomes zero
+NOTE (line 3050) - POWER Clamp Typical data is non-monotonic
+NOTE (line 3050) - POWER Clamp Minimum data is non-monotonic
+NOTE (line 3050) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 3093) - Pulldown Typical data is non-monotonic
+NOTE (line 3094) - Pulldown Maximum data is non-monotonic
+NOTE (line 3097) - Pulldown Minimum data is non-monotonic
+NOTE (line 3793) - POWER Clamp Typical data is non-monotonic
+NOTE (line 3793) - POWER Clamp Minimum data is non-monotonic
+NOTE (line 3793) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 3836) - Pulldown Typical data is non-monotonic
+NOTE (line 3837) - Pulldown Maximum data is non-monotonic
+NOTE (line 3840) - Pulldown Minimum data is non-monotonic
+NOTE (line 3923) - Pullup Maximum data is non-monotonic
+NOTE (line 3926) - Pullup Typical data is non-monotonic
+NOTE (line 3929) - Pullup Minimum data is non-monotonic
+NOTE (line 5036) - POWER Clamp Typical data is non-monotonic
+NOTE (line 5036) - POWER Clamp Minimum data is non-monotonic
+NOTE (line 5036) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 5079) - Pulldown Typical data is non-monotonic
+NOTE (line 5080) - Pulldown Maximum data is non-monotonic
+NOTE (line 5083) - Pulldown Minimum data is non-monotonic
+NOTE (line 5165) - Pullup Maximum data is non-monotonic
+NOTE (line 5169) - Pullup Typical data is non-monotonic
+NOTE (line 5172) - Pullup Minimum data is non-monotonic
+NOTE (line 6210) - POWER Clamp Typical data is non-monotonic
+NOTE (line 6210) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 6211) - POWER Clamp Minimum data is non-monotonic
+WARNING - Model BT_WEAK_PU_ON_3P3: GND Clamp : Maximum value never becomes zero
+NOTE (line 6793) - Pulldown Typical data is non-monotonic
+NOTE (line 6793) - Pulldown Maximum data is non-monotonic
+NOTE (line 6794) - Pulldown Minimum data is non-monotonic
+NOTE (line 7952) - Pulldown Maximum data is non-monotonic
+NOTE (line 7954) - Pulldown Typical data is non-monotonic
+NOTE (line 7956) - Pulldown Minimum data is non-monotonic
+NOTE (line 8058) - Pullup Maximum data is non-monotonic
+NOTE (line 8059) - Pullup Typical data is non-monotonic
+NOTE (line 8061) - Pullup Minimum data is non-monotonic
+NOTE (line 8981) - Pulldown Maximum data is non-monotonic
+NOTE (line 8983) - Pulldown Typical data is non-monotonic
+NOTE (line 8987) - Pulldown Minimum data is non-monotonic
+NOTE (line 9088) - Pullup Maximum data is non-monotonic
+NOTE (line 9089) - Pullup Typical data is non-monotonic
+NOTE (line 9092) - Pullup Minimum data is non-monotonic
+NOTE (line 10501) - Pulldown Maximum data is non-monotonic
+NOTE (line 10503) - Pulldown Typical data is non-monotonic
+NOTE (line 10505) - Pulldown Minimum data is non-monotonic
+NOTE (line 10607) - Pullup Maximum data is non-monotonic
+NOTE (line 10608) - Pullup Typical data is non-monotonic
+NOTE (line 10610) - Pullup Minimum data is non-monotonic
+NOTE (line 12020) - Pulldown Maximum data is non-monotonic
+NOTE (line 12023) - Pulldown Typical data is non-monotonic
+NOTE (line 12028) - Pulldown Minimum data is non-monotonic
+NOTE (line 12128) - Pullup Maximum data is non-monotonic
+NOTE (line 12130) - Pullup Typical data is non-monotonic
+NOTE (line 12134) - Pullup Minimum data is non-monotonic
+NOTE (line 13580) - Pulldown Maximum data is non-monotonic
+NOTE (line 13582) - Pulldown Typical data is non-monotonic
+NOTE (line 13584) - Pulldown Minimum data is non-monotonic
+NOTE (line 13686) - Pullup Maximum data is non-monotonic
+NOTE (line 13687) - Pullup Typical data is non-monotonic
+NOTE (line 13689) - Pullup Minimum data is non-monotonic
+NOTE (line 15131) - Pulldown Maximum data is non-monotonic
+NOTE (line 15132) - Pulldown Typical data is non-monotonic
+NOTE (line 15133) - Pulldown Minimum data is non-monotonic
+NOTE (line 15236) - Pullup Typical data is non-monotonic
+NOTE (line 15236) - Pullup Maximum data is non-monotonic
+NOTE (line 15238) - Pullup Minimum data is non-monotonic
+NOTE (line 15403) - GND Clamp Maximum data is non-monotonic
+NOTE - Combined Pulldown for Model: BCF3335D_DRIVER_3P3 Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: BCF3335D_DRIVER_3P3 Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: BCF3335D_DRIVER_3P3 Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: TMS_DRIVER_3P3 Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: BCF3385DUSF_DRIVER_3P3 Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: BCF3385DUSF_DRIVER_3P3 Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: BCPF_DRIVER_2MA_3P3 Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: BCPF_DRIVER_4MA_3P3 Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: BCPF_DRIVER_4MA_3P3 Maximum data is non-monotonic based on piece-wise linear interpolation
+WARNING - Model 'XRSN_OPEN_DRAIN': TYP VI curves cannot drive through Vmeas=1.65V
+          given load Rref=1e+08 Ohms to Vref=0V
+NOTE - Combined Pulldown for Model: XRSN_OPEN_DRAIN Minimum data is non-monotonic based on piece-wise linear interpolation
+WARNING - Model 'XRSN_OPEN_DRAIN': MAX VI curves cannot drive through Vmeas=1.65V
+          given load Rref=1e+08 Ohms to Vref=0V
+NOTE - Combined Pulldown for Model: BT_DRIVER_MODE_3MA_3P3 Typical data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: BT_DRIVER_MODE_3MA_3P3 Typical data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: BT_DRIVER_MODE_3MA_3P3 Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: BT_DRIVER_MODE_3MA_3P3 Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: BT_DRIVER_MODE_3MA_3P3 Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: BT_DRIVER_MODE_3MA_3P3 Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: BT_DRIVER_MODE_6MA_3P3 Typical data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: BT_DRIVER_MODE_6MA_3P3 Typical data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: BT_DRIVER_MODE_6MA_3P3 Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: BT_DRIVER_MODE_6MA_3P3 Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: BT_DRIVER_MODE_6MA_3P3 Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: BT_DRIVER_MODE_6MA_3P3 Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: BT_OPEN_DRAIN_3MA_3P3 Typical data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: BT_OPEN_DRAIN_3MA_3P3 Typical data is non-monotonic based on piece-wise linear interpolation
+WARNING - Model 'BT_OPEN_DRAIN_3MA_3P3': TYP VI curves cannot drive through Vmeas=1.65V
+          given load Rref=1e+08 Ohms to Vref=0V
+NOTE - Combined Pulldown for Model: BT_OPEN_DRAIN_3MA_3P3 Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: BT_OPEN_DRAIN_3MA_3P3 Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: BT_OPEN_DRAIN_3MA_3P3 Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: BT_OPEN_DRAIN_3MA_3P3 Maximum data is non-monotonic based on piece-wise linear interpolation
+WARNING - Model 'BT_OPEN_DRAIN_3MA_3P3': MAX VI curves cannot drive through Vmeas=1.65V
+          given load Rref=1e+08 Ohms to Vref=0V
+NOTE - Combined Pulldown for Model: BT_OPEN_DRAIN_6MA_3P3 Typical data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: BT_OPEN_DRAIN_6MA_3P3 Typical data is non-monotonic based on piece-wise linear interpolation
+WARNING - Model 'BT_OPEN_DRAIN_6MA_3P3': TYP VI curves cannot drive through Vmeas=1.65V
+          given load Rref=1e+08 Ohms to Vref=0V
+NOTE - Combined Pulldown for Model: BT_OPEN_DRAIN_6MA_3P3 Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: BT_OPEN_DRAIN_6MA_3P3 Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: BT_OPEN_DRAIN_6MA_3P3 Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: BT_OPEN_DRAIN_6MA_3P3 Maximum data is non-monotonic based on piece-wise linear interpolation
+WARNING - Model 'BT_OPEN_DRAIN_6MA_3P3': MAX VI curves cannot drive through Vmeas=1.65V
+          given load Rref=1e+08 Ohms to Vref=0V

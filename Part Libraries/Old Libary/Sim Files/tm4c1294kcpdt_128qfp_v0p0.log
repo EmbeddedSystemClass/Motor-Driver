@@ -1,0 +1,393 @@
+NOTE (line  366) - Pulldown Maximum data is non-monotonic
+NOTE (line  367) - Pulldown Typical data is non-monotonic
+NOTE (line  368) - Pulldown Minimum data is non-monotonic
+NOTE (line  471) - Pullup Typical data is non-monotonic
+NOTE (line  471) - Pullup Maximum data is non-monotonic
+NOTE (line  473) - Pullup Minimum data is non-monotonic
+NOTE (line 1541) - Pulldown Maximum data is non-monotonic
+NOTE (line 1542) - Pulldown Typical data is non-monotonic
+NOTE (line 1543) - Pulldown Minimum data is non-monotonic
+NOTE (line 1646) - Pullup Typical data is non-monotonic
+NOTE (line 1646) - Pullup Maximum data is non-monotonic
+NOTE (line 1648) - Pullup Minimum data is non-monotonic
+NOTE (line 2790) - Pulldown Maximum data is non-monotonic
+NOTE (line 2791) - Pulldown Typical data is non-monotonic
+NOTE (line 2792) - Pulldown Minimum data is non-monotonic
+NOTE (line 2895) - Pullup Typical data is non-monotonic
+NOTE (line 2895) - Pullup Maximum data is non-monotonic
+NOTE (line 2896) - Pullup Minimum data is non-monotonic
+NOTE (line 4300) - Pulldown Maximum data is non-monotonic
+NOTE (line 4301) - Pulldown Typical data is non-monotonic
+NOTE (line 4302) - Pulldown Minimum data is non-monotonic
+NOTE (line 4405) - Pullup Typical data is non-monotonic
+NOTE (line 4405) - Pullup Maximum data is non-monotonic
+NOTE (line 4406) - Pullup Minimum data is non-monotonic
+NOTE (line 5669) - Pulldown Maximum data is non-monotonic
+NOTE (line 5670) - Pulldown Typical data is non-monotonic
+NOTE (line 5671) - Pulldown Minimum data is non-monotonic
+NOTE (line 5774) - Pullup Typical data is non-monotonic
+NOTE (line 5774) - Pullup Maximum data is non-monotonic
+NOTE (line 5775) - Pullup Minimum data is non-monotonic
+NOTE (line 7220) - Pulldown Maximum data is non-monotonic
+NOTE (line 7221) - Pulldown Typical data is non-monotonic
+NOTE (line 7222) - Pulldown Minimum data is non-monotonic
+NOTE (line 7325) - Pullup Typical data is non-monotonic
+NOTE (line 7325) - Pullup Maximum data is non-monotonic
+NOTE (line 7326) - Pullup Minimum data is non-monotonic
+WARNING - Model GPIO12P_I_WPU_2: GND Clamp : Maximum value never becomes zero
+WARNING - Model GPIO12P_I_WPD_2: POWER Clamp : Maximum value never becomes zero
+NOTE (line 9086) - Pulldown Maximum data is non-monotonic
+NOTE (line 9087) - Pulldown Typical data is non-monotonic
+NOTE (line 9088) - Pulldown Minimum data is non-monotonic
+NOTE (line 9768) - Pulldown Maximum data is non-monotonic
+NOTE (line 9769) - Pulldown Typical data is non-monotonic
+NOTE (line 9770) - Pulldown Minimum data is non-monotonic
+NOTE (line 10490) - Pulldown Maximum data is non-monotonic
+NOTE (line 10491) - Pulldown Typical data is non-monotonic
+NOTE (line 10492) - Pulldown Minimum data is non-monotonic
+NOTE (line 11371) - Pulldown Maximum data is non-monotonic
+NOTE (line 11372) - Pulldown Typical data is non-monotonic
+NOTE (line 11373) - Pulldown Minimum data is non-monotonic
+NOTE (line 12173) - Pulldown Maximum data is non-monotonic
+NOTE (line 12174) - Pulldown Typical data is non-monotonic
+NOTE (line 12175) - Pulldown Minimum data is non-monotonic
+NOTE (line 13069) - Pulldown Maximum data is non-monotonic
+NOTE (line 13070) - Pulldown Typical data is non-monotonic
+NOTE (line 13071) - Pulldown Minimum data is non-monotonic
+NOTE (line 13916) - Pulldown Maximum data is non-monotonic
+NOTE (line 13917) - Pulldown Typical data is non-monotonic
+NOTE (line 13918) - Pulldown Minimum data is non-monotonic
+NOTE (line 14009) - Pullup Maximum data is non-monotonic
+NOTE (line 14010) - Pullup Typical data is non-monotonic
+NOTE (line 14012) - Pullup Minimum data is non-monotonic
+NOTE (line 15194) - Pulldown Maximum data is non-monotonic
+NOTE (line 15195) - Pulldown Typical data is non-monotonic
+NOTE (line 15196) - Pulldown Minimum data is non-monotonic
+NOTE (line 15287) - Pullup Typical data is non-monotonic
+NOTE (line 15287) - Pullup Maximum data is non-monotonic
+NOTE (line 15289) - Pullup Minimum data is non-monotonic
+NOTE (line 16518) - Pulldown Maximum data is non-monotonic
+NOTE (line 16519) - Pulldown Typical data is non-monotonic
+NOTE (line 16520) - Pulldown Minimum data is non-monotonic
+NOTE (line 16611) - Pullup Typical data is non-monotonic
+NOTE (line 16611) - Pullup Maximum data is non-monotonic
+NOTE (line 16613) - Pullup Minimum data is non-monotonic
+NOTE (line 18087) - Pulldown Maximum data is non-monotonic
+NOTE (line 18088) - Pulldown Typical data is non-monotonic
+NOTE (line 18089) - Pulldown Minimum data is non-monotonic
+NOTE (line 18180) - Pullup Typical data is non-monotonic
+NOTE (line 18180) - Pullup Maximum data is non-monotonic
+NOTE (line 18182) - Pullup Minimum data is non-monotonic
+WARNING - Model GPIO8P_I_WPU_2: GND Clamp : Maximum value never becomes zero
+WARNING - Model GPIO8P_I_WPD_2: POWER Clamp : Maximum value never becomes zero
+NOTE (line 20051) - Pulldown Maximum data is non-monotonic
+NOTE (line 20052) - Pulldown Typical data is non-monotonic
+NOTE (line 20053) - Pulldown Minimum data is non-monotonic
+NOTE (line 20789) - Pulldown Maximum data is non-monotonic
+NOTE (line 20790) - Pulldown Typical data is non-monotonic
+NOTE (line 20791) - Pulldown Minimum data is non-monotonic
+NOTE (line 21556) - Pulldown Maximum data is non-monotonic
+NOTE (line 21557) - Pulldown Typical data is non-monotonic
+NOTE (line 21558) - Pulldown Minimum data is non-monotonic
+NOTE (line 22461) - Pulldown Maximum data is non-monotonic
+NOTE (line 22462) - Pulldown Typical data is non-monotonic
+NOTE (line 22463) - Pulldown Minimum data is non-monotonic
+NOTE (line 23779) - POWER Clamp Typical data is non-monotonic
+NOTE (line 23779) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 23782) - POWER Clamp Minimum data is non-monotonic
+NOTE (line 23828) - Pulldown Maximum data is non-monotonic
+NOTE (line 23829) - Pulldown Typical data is non-monotonic
+NOTE (line 23830) - Pulldown Minimum data is non-monotonic
+NOTE (line 23910) - Pullup Typical data is non-monotonic
+NOTE (line 23915) - Pullup Minimum data is non-monotonic
+NOTE (line 23923) - Pullup Maximum data is non-monotonic
+NOTE (line 25002) - POWER Clamp Typical data is non-monotonic
+NOTE (line 25002) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 25005) - POWER Clamp Minimum data is non-monotonic
+NOTE (line 25051) - Pulldown Maximum data is non-monotonic
+NOTE (line 25052) - Pulldown Typical data is non-monotonic
+NOTE (line 25053) - Pulldown Minimum data is non-monotonic
+NOTE (line 25136) - Pullup Minimum data is non-monotonic
+NOTE (line 25148) - Pullup Maximum data is non-monotonic
+NOTE (line 25149) - Pullup Typical data is non-monotonic
+NOTE (line 26298) - POWER Clamp Typical data is non-monotonic
+NOTE (line 26298) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 26301) - POWER Clamp Minimum data is non-monotonic
+NOTE (line 26347) - Pulldown Maximum data is non-monotonic
+NOTE (line 26348) - Pulldown Typical data is non-monotonic
+NOTE (line 26349) - Pulldown Minimum data is non-monotonic
+NOTE (line 26432) - Pullup Minimum data is non-monotonic
+NOTE (line 26502) - Pullup Typical data is non-monotonic
+NOTE (line 26505) - Pullup Maximum data is non-monotonic
+NOTE (line 27714) - POWER Clamp Typical data is non-monotonic
+NOTE (line 27714) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 27717) - POWER Clamp Minimum data is non-monotonic
+NOTE (line 27763) - Pulldown Maximum data is non-monotonic
+NOTE (line 27764) - Pulldown Typical data is non-monotonic
+NOTE (line 27765) - Pulldown Minimum data is non-monotonic
+NOTE (line 27848) - Pullup Minimum data is non-monotonic
+NOTE (line 27918) - Pullup Typical data is non-monotonic
+NOTE (line 27921) - Pullup Maximum data is non-monotonic
+NOTE (line 29106) - POWER Clamp Typical data is non-monotonic
+NOTE (line 29106) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 29107) - POWER Clamp Minimum data is non-monotonic
+WARNING - Model GPIO8P_5V_I_WPU_2: GND Clamp : Maximum value never becomes zero
+NOTE (line 29340) - POWER Clamp Typical data is non-monotonic
+NOTE (line 29340) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 29341) - POWER Clamp Minimum data is non-monotonic
+WARNING -
+    Model GPIO8P_5V_I_WPD_2: POWER Clamp : Maximum value never becomes zero
+NOTE (line 29618) - POWER Clamp Typical data is non-monotonic
+NOTE (line 29618) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 29621) - POWER Clamp Minimum data is non-monotonic
+NOTE (line 29667) - Pulldown Maximum data is non-monotonic
+NOTE (line 29668) - Pulldown Typical data is non-monotonic
+NOTE (line 29669) - Pulldown Minimum data is non-monotonic
+NOTE (line 30353) - POWER Clamp Typical data is non-monotonic
+NOTE (line 30353) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 30356) - POWER Clamp Minimum data is non-monotonic
+NOTE (line 30402) - Pulldown Maximum data is non-monotonic
+NOTE (line 30403) - Pulldown Typical data is non-monotonic
+NOTE (line 30404) - Pulldown Minimum data is non-monotonic
+NOTE (line 31119) - POWER Clamp Typical data is non-monotonic
+NOTE (line 31119) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 31122) - POWER Clamp Minimum data is non-monotonic
+NOTE (line 31168) - Pulldown Maximum data is non-monotonic
+NOTE (line 31169) - Pulldown Typical data is non-monotonic
+NOTE (line 31170) - Pulldown Minimum data is non-monotonic
+NOTE (line 31978) - POWER Clamp Typical data is non-monotonic
+NOTE (line 31978) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 31981) - POWER Clamp Minimum data is non-monotonic
+NOTE (line 32027) - Pulldown Maximum data is non-monotonic
+NOTE (line 32028) - Pulldown Typical data is non-monotonic
+NOTE (line 32029) - Pulldown Minimum data is non-monotonic
+NOTE (line 32882) - Pulldown Maximum data is non-monotonic
+NOTE (line 32886) - Pulldown Typical data is non-monotonic
+NOTE (line 32893) - Pulldown Minimum data is non-monotonic
+NOTE (line 32997) - Pullup Typical data is non-monotonic
+NOTE (line 32997) - Pullup Minimum data is non-monotonic
+NOTE (line 32997) - Pullup Maximum data is non-monotonic
+NOTE (line 33153) - GND Clamp Typical data is non-monotonic
+NOTE (line 33154) - GND Clamp Maximum data is non-monotonic
+WARNING - Model GPIO2_I_WPU_2: GND Clamp : Maximum value never becomes zero
+WARNING - Model GPIO2_I_WPD_2: POWER Clamp : Maximum value never becomes zero
+NOTE (line 34592) - Pulldown Maximum data is non-monotonic
+NOTE (line 34596) - Pulldown Typical data is non-monotonic
+NOTE (line 34603) - Pulldown Minimum data is non-monotonic
+NOTE (line 34761) - GND Clamp Maximum data is non-monotonic
+NOTE (line 34771) - GND Clamp Typical data is non-monotonic
+WARNING - Model Selector: 'RST_INPUT' has only one model defined
+NOTE (line 35339) - Pulldown Maximum data is non-monotonic
+NOTE (line 35340) - Pulldown Typical data is non-monotonic
+NOTE (line 35341) - Pulldown Minimum data is non-monotonic
+NOTE (line 35444) - Pullup Typical data is non-monotonic
+NOTE (line 35444) - Pullup Maximum data is non-monotonic
+NOTE (line 35445) - Pullup Minimum data is non-monotonic
+WARNING - Model Selector: 'HIB_OUTPUT' has only one model defined
+NOTE (line 35737) - POWER Clamp Typical data is non-monotonic
+NOTE (line 35737) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 35740) - POWER Clamp Minimum data is non-monotonic
+NOTE (line 35786) - Pulldown Maximum data is non-monotonic
+NOTE (line 35787) - Pulldown Typical data is non-monotonic
+NOTE (line 35788) - Pulldown Minimum data is non-monotonic
+NOTE (line 35870) - Pullup Minimum data is non-monotonic
+NOTE (line 35881) - Pullup Maximum data is non-monotonic
+NOTE (line 35882) - Pullup Typical data is non-monotonic
+WARNING - Model Selector: 'WAKE_INPUT' has only one model defined
+NOTE (line 36906) - POWER Clamp Typical data is non-monotonic
+NOTE (line 36906) - POWER Clamp Maximum data is non-monotonic
+NOTE (line 36909) - POWER Clamp Minimum data is non-monotonic
+NOTE (line 37091) - Pulldown Maximum data is non-monotonic
+NOTE (line 37092) - Pulldown Typical data is non-monotonic
+NOTE (line 37094) - Pulldown Minimum data is non-monotonic
+NOTE (line 37181) - Pullup Maximum data is non-monotonic
+NOTE (line 37185) - Pullup Typical data is non-monotonic
+NOTE (line 37190) - Pullup Minimum data is non-monotonic
+NOTE (line 39485) - Pulldown Maximum data is non-monotonic
+NOTE (line 39487) - Pulldown Typical data is non-monotonic
+NOTE (line 39488) - Pulldown Minimum data is non-monotonic
+NOTE (line 39569) - Pullup Typical data is non-monotonic
+NOTE (line 39573) - Pullup Minimum data is non-monotonic
+NOTE (line 39642) - Pullup Maximum data is non-monotonic
+WARNING - Model lsdp_50pf_tx: POWER Clamp : Typical value never becomes zero
+WARNING - Model lsdp_50pf_tx: POWER Clamp : Minimum value never becomes zero
+WARNING - Model lsdp_50pf_tx: POWER Clamp : Maximum value never becomes zero
+NOTE (line 41874) - Pulldown Maximum data is non-monotonic
+NOTE (line 41876) - Pulldown Typical data is non-monotonic
+NOTE (line 41877) - Pulldown Minimum data is non-monotonic
+NOTE (line 41958) - Pullup Typical data is non-monotonic
+NOTE (line 41962) - Pullup Minimum data is non-monotonic
+NOTE (line 42031) - Pullup Maximum data is non-monotonic
+WARNING - Model lsdp_200pf_tx: POWER Clamp : Typical value never becomes zero
+WARNING - Model lsdp_200pf_tx: POWER Clamp : Minimum value never becomes zero
+WARNING - Model lsdp_200pf_tx: POWER Clamp : Maximum value never becomes zero
+NOTE (line 44264) - Pulldown Maximum data is non-monotonic
+NOTE (line 44266) - Pulldown Typical data is non-monotonic
+NOTE (line 44267) - Pulldown Minimum data is non-monotonic
+NOTE (line 44348) - Pullup Typical data is non-monotonic
+NOTE (line 44352) - Pullup Minimum data is non-monotonic
+NOTE (line 44421) - Pullup Maximum data is non-monotonic
+WARNING - Model lsdp_400pf_tx: POWER Clamp : Typical value never becomes zero
+WARNING - Model lsdp_400pf_tx: POWER Clamp : Minimum value never becomes zero
+WARNING - Model lsdp_400pf_tx: POWER Clamp : Maximum value never becomes zero
+NOTE (line 46655) - Pulldown Maximum data is non-monotonic
+NOTE (line 46657) - Pulldown Typical data is non-monotonic
+NOTE (line 46658) - Pulldown Minimum data is non-monotonic
+NOTE (line 46739) - Pullup Typical data is non-monotonic
+NOTE (line 46743) - Pullup Minimum data is non-monotonic
+NOTE (line 46812) - Pullup Maximum data is non-monotonic
+WARNING - Model lsdp_600pf_tx: POWER Clamp : Typical value never becomes zero
+WARNING - Model lsdp_600pf_tx: POWER Clamp : Minimum value never becomes zero
+WARNING - Model lsdp_600pf_tx: POWER Clamp : Maximum value never becomes zero
+NOTE (line 49214) - Pulldown Maximum data is non-monotonic
+NOTE (line 49215) - Pulldown Typical data is non-monotonic
+NOTE (line 49217) - Pulldown Minimum data is non-monotonic
+NOTE (line 49304) - Pullup Maximum data is non-monotonic
+NOTE (line 49308) - Pullup Typical data is non-monotonic
+NOTE (line 49313) - Pullup Minimum data is non-monotonic
+NOTE (line 51608) - Pulldown Maximum data is non-monotonic
+NOTE (line 51610) - Pulldown Typical data is non-monotonic
+NOTE (line 51611) - Pulldown Minimum data is non-monotonic
+NOTE (line 51692) - Pullup Typical data is non-monotonic
+NOTE (line 51696) - Pullup Minimum data is non-monotonic
+NOTE (line 51765) - Pullup Maximum data is non-monotonic
+WARNING - Model lsdm_50pf_tx: POWER Clamp : Typical value never becomes zero
+WARNING - Model lsdm_50pf_tx: POWER Clamp : Minimum value never becomes zero
+WARNING - Model lsdm_50pf_tx: POWER Clamp : Maximum value never becomes zero
+NOTE (line 53999) - Pulldown Maximum data is non-monotonic
+NOTE (line 54001) - Pulldown Typical data is non-monotonic
+NOTE (line 54002) - Pulldown Minimum data is non-monotonic
+NOTE (line 54083) - Pullup Typical data is non-monotonic
+NOTE (line 54087) - Pullup Minimum data is non-monotonic
+NOTE (line 54156) - Pullup Maximum data is non-monotonic
+WARNING - Model lsdm_200pf_tx: POWER Clamp : Typical value never becomes zero
+WARNING - Model lsdm_200pf_tx: POWER Clamp : Minimum value never becomes zero
+WARNING - Model lsdm_200pf_tx: POWER Clamp : Maximum value never becomes zero
+NOTE (line 56389) - Pulldown Maximum data is non-monotonic
+NOTE (line 56391) - Pulldown Typical data is non-monotonic
+NOTE (line 56392) - Pulldown Minimum data is non-monotonic
+NOTE (line 56473) - Pullup Typical data is non-monotonic
+NOTE (line 56477) - Pullup Minimum data is non-monotonic
+NOTE (line 56546) - Pullup Maximum data is non-monotonic
+WARNING - Model lsdm_400pf_tx: POWER Clamp : Typical value never becomes zero
+WARNING - Model lsdm_400pf_tx: POWER Clamp : Minimum value never becomes zero
+WARNING - Model lsdm_400pf_tx: POWER Clamp : Maximum value never becomes zero
+NOTE (line 58780) - Pulldown Maximum data is non-monotonic
+NOTE (line 58782) - Pulldown Typical data is non-monotonic
+NOTE (line 58783) - Pulldown Minimum data is non-monotonic
+NOTE (line 58864) - Pullup Typical data is non-monotonic
+NOTE (line 58868) - Pullup Minimum data is non-monotonic
+NOTE (line 58937) - Pullup Maximum data is non-monotonic
+WARNING - Model lsdm_600pf_tx: POWER Clamp : Typical value never becomes zero
+WARNING - Model lsdm_600pf_tx: POWER Clamp : Minimum value never becomes zero
+WARNING - Model lsdm_600pf_tx: POWER Clamp : Maximum value never becomes zero
+NOTE - Combined Pulldown for Model: HIBERNATE_OUTPUT Typical data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: HIBERNATE_OUTPUT Typical data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: HIBERNATE_OUTPUT Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: HIBERNATE_OUTPUT Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: HIBERNATE_OUTPUT Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: HIBERNATE_OUTPUT Maximum data is non-monotonic based on piece-wise linear interpolation
+WARNING - Model 'GPIO2_I/O_OD_2': TYP VI curves cannot drive through Vmeas=1.65V
+          given load Rref=1e+08 Ohms to Vref=0V
+WARNING - Model 'GPIO2_I/O_OD_2': MAX VI curves cannot drive through Vmeas=1.65V
+          given load Rref=1e+08 Ohms to Vref=0V
+NOTE - Combined Pulldown for Model: GPIO8P_5V_I/O_OD_8 Typical data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: GPIO8P_5V_I/O_OD_8 Typical data is non-monotonic based on piece-wise linear interpolation
+WARNING - Model 'GPIO8P_5V_I/O_OD_8': TYP VI curves cannot drive through Vmeas=1.65V
+          given load Rref=1e+08 Ohms to Vref=0V
+NOTE - Combined Pulldown for Model: GPIO8P_5V_I/O_OD_8 Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: GPIO8P_5V_I/O_OD_8 Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: GPIO8P_5V_I/O_OD_8 Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: GPIO8P_5V_I/O_OD_8 Maximum data is non-monotonic based on piece-wise linear interpolation
+WARNING - Model 'GPIO8P_5V_I/O_OD_8': MAX VI curves cannot drive through Vmeas=1.65V
+          given load Rref=1e+08 Ohms to Vref=0V
+NOTE - Combined Pulldown for Model: GPIO8P_5V_I/O_OD_8S Typical data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: GPIO8P_5V_I/O_OD_8S Typical data is non-monotonic based on piece-wise linear interpolation
+WARNING - Model 'GPIO8P_5V_I/O_OD_8S': TYP VI curves cannot drive through Vmeas=1.65V
+          given load Rref=1e+08 Ohms to Vref=0V
+NOTE - Combined Pulldown for Model: GPIO8P_5V_I/O_OD_8S Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: GPIO8P_5V_I/O_OD_8S Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: GPIO8P_5V_I/O_OD_8S Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: GPIO8P_5V_I/O_OD_8S Maximum data is non-monotonic based on piece-wise linear interpolation
+WARNING - Model 'GPIO8P_5V_I/O_OD_8S': MAX VI curves cannot drive through Vmeas=1.65V
+          given load Rref=1e+08 Ohms to Vref=0V
+NOTE - Combined Pulldown for Model: GPIO8P_5V_I/O_OD_4 Typical data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: GPIO8P_5V_I/O_OD_4 Typical data is non-monotonic based on piece-wise linear interpolation
+WARNING - Model 'GPIO8P_5V_I/O_OD_4': TYP VI curves cannot drive through Vmeas=1.65V
+          given load Rref=1e+08 Ohms to Vref=0V
+NOTE - Combined Pulldown for Model: GPIO8P_5V_I/O_OD_4 Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: GPIO8P_5V_I/O_OD_4 Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: GPIO8P_5V_I/O_OD_4 Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: GPIO8P_5V_I/O_OD_4 Maximum data is non-monotonic based on piece-wise linear interpolation
+WARNING - Model 'GPIO8P_5V_I/O_OD_4': MAX VI curves cannot drive through Vmeas=1.65V
+          given load Rref=1e+08 Ohms to Vref=0V
+NOTE - Combined Pulldown for Model: GPIO8P_5V_I/O_OD_2 Typical data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: GPIO8P_5V_I/O_OD_2 Typical data is non-monotonic based on piece-wise linear interpolation
+WARNING - Model 'GPIO8P_5V_I/O_OD_2': TYP VI curves cannot drive through Vmeas=1.65V
+          given load Rref=1e+08 Ohms to Vref=0V
+NOTE - Combined Pulldown for Model: GPIO8P_5V_I/O_OD_2 Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: GPIO8P_5V_I/O_OD_2 Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: GPIO8P_5V_I/O_OD_2 Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: GPIO8P_5V_I/O_OD_2 Maximum data is non-monotonic based on piece-wise linear interpolation
+WARNING - Model 'GPIO8P_5V_I/O_OD_2': MAX VI curves cannot drive through Vmeas=1.65V
+          given load Rref=1e+08 Ohms to Vref=0V
+NOTE - Combined Pulldown for Model: GPIO8P_5V_I/O_8 Typical data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: GPIO8P_5V_I/O_8 Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: GPIO8P_5V_I/O_8 Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: GPIO8P_5V_I/O_8 Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: GPIO8P_5V_I/O_8S Typical data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: GPIO8P_5V_I/O_8S Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: GPIO8P_5V_I/O_8S Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: GPIO8P_5V_I/O_8S Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: GPIO8P_5V_I/O_4 Typical data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: GPIO8P_5V_I/O_4 Typical data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: GPIO8P_5V_I/O_4 Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: GPIO8P_5V_I/O_4 Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: GPIO8P_5V_I/O_4 Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: GPIO8P_5V_I/O_4 Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: GPIO8P_5V_I/O_2 Typical data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: GPIO8P_5V_I/O_2 Typical data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: GPIO8P_5V_I/O_2 Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: GPIO8P_5V_I/O_2 Minimum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pulldown for Model: GPIO8P_5V_I/O_2 Maximum data is non-monotonic based on piece-wise linear interpolation
+NOTE - Combined Pullup for Model: GPIO8P_5V_I/O_2 Maximum data is non-monotonic based on piece-wise linear interpolation
+WARNING - Model 'GPIO8P_I/O_OD_8': TYP VI curves cannot drive through Vmeas=1.65V
+          given load Rref=1e+08 Ohms to Vref=0V
+WARNING - Model 'GPIO8P_I/O_OD_8': MAX VI curves cannot drive through Vmeas=1.65V
+          given load Rref=1e+08 Ohms to Vref=0V
+WARNING - Model 'GPIO8P_I/O_OD_8S': TYP VI curves cannot drive through Vmeas=1.65V
+          given load Rref=1e+08 Ohms to Vref=0V
+WARNING - Model 'GPIO8P_I/O_OD_8S': MAX VI curves cannot drive through Vmeas=1.65V
+          given load Rref=1e+08 Ohms to Vref=0V
+WARNING - Model 'GPIO8P_I/O_OD_4': TYP VI curves cannot drive through Vmeas=1.65V
+          given load Rref=1e+08 Ohms to Vref=0V
+WARNING - Model 'GPIO8P_I/O_OD_4': MAX VI curves cannot drive through Vmeas=1.65V
+          given load Rref=1e+08 Ohms to Vref=0V
+WARNING - Model 'GPIO8P_I/O_OD_2': TYP VI curves cannot drive through Vmeas=1.65V
+          given load Rref=1e+08 Ohms to Vref=0V
+WARNING - Model 'GPIO8P_I/O_OD_2': MAX VI curves cannot drive through Vmeas=1.65V
+          given load Rref=1e+08 Ohms to Vref=0V
+WARNING - Model 'GPIO12P_I/O_OD_12': TYP VI curves cannot drive through Vmeas=1.65V
+          given load Rref=1e+08 Ohms to Vref=0V
+WARNING - Model 'GPIO12P_I/O_OD_12': MAX VI curves cannot drive through Vmeas=1.65V
+          given load Rref=1e+08 Ohms to Vref=0V
+WARNING - Model 'GPIO12P_I/O_OD_12S': TYP VI curves cannot drive through Vmeas=1.65V
+          given load Rref=1e+08 Ohms to Vref=0V
+WARNING - Model 'GPIO12P_I/O_OD_12S': MAX VI curves cannot drive through Vmeas=1.65V
+          given load Rref=1e+08 Ohms to Vref=0V
+WARNING - Model 'GPIO12P_I/O_OD_8': TYP VI curves cannot drive through Vmeas=1.65V
+          given load Rref=1e+08 Ohms to Vref=0V
+WARNING - Model 'GPIO12P_I/O_OD_8': MAX VI curves cannot drive through Vmeas=1.65V
+          given load Rref=1e+08 Ohms to Vref=0V
+WARNING - Model 'GPIO12P_I/O_OD_8S': TYP VI curves cannot drive through Vmeas=1.65V
+          given load Rref=1e+08 Ohms to Vref=0V
+WARNING - Model 'GPIO12P_I/O_OD_8S': MAX VI curves cannot drive through Vmeas=1.65V
+          given load Rref=1e+08 Ohms to Vref=0V
+WARNING - Model 'GPIO12P_I/O_OD_4': TYP VI curves cannot drive through Vmeas=1.65V
+          given load Rref=1e+08 Ohms to Vref=0V
+WARNING - Model 'GPIO12P_I/O_OD_4': MAX VI curves cannot drive through Vmeas=1.65V
+          given load Rref=1e+08 Ohms to Vref=0V
+WARNING - Model 'GPIO12P_I/O_OD_2': TYP VI curves cannot drive through Vmeas=1.65V
+          given load Rref=1e+08 Ohms to Vref=0V
+WARNING - Model 'GPIO12P_I/O_OD_2': MAX VI curves cannot drive through Vmeas=1.65V
+          given load Rref=1e+08 Ohms to Vref=0V

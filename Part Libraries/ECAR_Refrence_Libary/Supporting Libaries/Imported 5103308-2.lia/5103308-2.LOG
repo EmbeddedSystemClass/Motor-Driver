@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : 5103308-2.LibPkg
+
+Section : E:\Projects\Ecar Team\Parts Libary\ECAR_Refrence_Libary\Supporting Libaries\5103308-2.lia
+    Section : PCB Library - 5103308-2.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 5103308-2 On Line 143
+            Warning - 1 : Skipping Token attachedSymbol On Line 312
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - 5103308-2.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 112
+            Warning - 1 : Skipping Token layerContents On Line 120
+            Warning - 1 : Skipping Token layerContents On Line 128
+            Warning - 1 : Skipping Token layerContents On Line 135
+        EndSection
+
+        Section : Generating SCH Library - 5103308-2.SchLib
+        EndSection
+    EndSection
+EndSection

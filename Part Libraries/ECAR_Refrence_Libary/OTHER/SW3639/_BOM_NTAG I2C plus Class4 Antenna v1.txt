@@ -1,0 +1,16 @@
+Partlist
+
+Exported from NTAG I2C plus Class4 v1.brd at 05.02.2016 14:35
+
+EAGLE Version 7.4.0 Copyright (c) 1988-2015 CadSoft
+
+Assembly variant: 
+
+Part     Value                                     Package           Library       Position (mm)         Orientation
+
+C1       100pF                                     C0402K            rcl           (13.373 19.237)       R90
+JP1                                                1X06/90           pinhead (2)   (-0.254 19.304)       R90
+TP1      TPSQPAD1-13                               P1-13             testpad       (14.098 23.146)       R0
+TP2      TPSQPAD1-13                               P1-13             testpad       (14.098 15.346)       R0
+U$1      ENERGY-HARVESTING_3-TURNS54X27_3TURN_THIN 54X27_3TURNS_THIN NTAG_Antennas (40.998 19.237)       R0
+U$3                                                SOT902-3          NTAG_I2C      (11.131 19.112)       R270

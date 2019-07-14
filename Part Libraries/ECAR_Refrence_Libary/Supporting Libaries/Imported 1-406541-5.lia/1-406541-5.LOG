@@ -1,0 +1,33 @@
+PCAD Importer Log
+Project : 1-406541-5.LibPkg
+
+Section : E:\Projects\Ecar Team\Parts Libary\ECAR_Refrence_Libary\Supporting Libaries\1-406541-5.lia
+    Section : PCB Library - 1-406541-5.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 1-406541-5 On Line 174
+            Warning - 1 : Skipping Token attachedSymbol On Line 303
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [TE_1-406541-5][Primary] associated with PCAD Component [1-406541-5] has been renamed to PCB FootPrint [TE_1-406541-5_1-406541-5(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - 1-406541-5.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 20
+            Warning - 1 : Skipping Token padStyleDef On Line 32
+            Warning - 1 : Skipping Token padStyleDef On Line 44
+            Warning - 1 : Skipping Token multiLayer On Line 119
+            Warning - 1 : Skipping Token layerContents On Line 133
+            Warning - 1 : Skipping Token layerContents On Line 141
+            Warning - 1 : Skipping Token layerContents On Line 149
+            Warning - 1 : Skipping Token layerContents On Line 158
+        EndSection
+
+        Section : Generating SCH Library - 1-406541-5.SchLib
+            Warning - 0 : PCAD Pattern Graphics [TE_1-406541-5][Primary] associated with PCAD Component [1-406541-5] has been renamed to PCB FootPrint [TE_1-406541-5_1-406541-5(Primary)].
+        EndSection
+    EndSection
+EndSection
