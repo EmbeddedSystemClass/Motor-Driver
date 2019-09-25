@@ -1,0 +1,6 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=Part Libraries\ECAR_Refrence_Libary\ECar Reference LIbary.LibPkg
+[Project2]
+ProjectPath=2019-2020\Motor Driver Board 2019-2020\Motor Driver Board 2019-2020.PrjPcb
