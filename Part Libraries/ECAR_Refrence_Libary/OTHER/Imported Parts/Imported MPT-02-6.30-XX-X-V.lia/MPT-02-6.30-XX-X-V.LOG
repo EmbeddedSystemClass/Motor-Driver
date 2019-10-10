@@ -1,0 +1,30 @@
+PCAD Importer Log
+Project : MPT-02-6.30-XX-X-V.LibPkg
+
+Section : P:\Uoe\Electrical\Motor-Driver\Part Libraries\ECAR_Refrence_Libary\OTHER\Imported Parts\MPT-02-6.30-XX-X-V.lia
+    Section : PCB Library - MPT-02-6.30-XX-X-V.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token MPT-02-6.30-XX-X-V On Line 135
+            Warning - 1 : Skipping Token attachedSymbol On Line 278
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*MPT-02-6.30-XX-X-V][Primary] associated with PCAD Component [MPT-02-6.30-XX-X-V] has been renamed to PCB FootPrint [*MPT-02-6.30-XX-X-V_MPT-02-6.30-XX-X-V(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - MPT-02-6.30-XX-X-V.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 95
+            Warning - 1 : Skipping Token layerContents On Line 111
+            Warning - 1 : Skipping Token layerContents On Line 117
+            Warning - 1 : Skipping Token layerContents On Line 125
+        EndSection
+
+        Section : Generating SCH Library - MPT-02-6.30-XX-X-V.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*MPT-02-6.30-XX-X-V][Primary] associated with PCAD Component [MPT-02-6.30-XX-X-V] has been renamed to PCB FootPrint [*MPT-02-6.30-XX-X-V_MPT-02-6.30-XX-X-V(Primary)].
+        EndSection
+    EndSection
+EndSection
