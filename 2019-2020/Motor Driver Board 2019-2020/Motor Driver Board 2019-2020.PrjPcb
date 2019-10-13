@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for Motor Driver Board 2019-2020
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -38,8 +38,24 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=..\..\..\BLDC\Layout, schematic and info\5v Regulator for Halls\Fulldesign\Schematic\webench_schematic_exchange_design_6088341_12_Altium\Altium\2019-10-12_17-12-39\UL_Form.pas
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document2]
 DocumentPath=..\Schematic\Gate Driver and Power Section.SchDoc
-<<<<<<< Updated upstream
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -55,10 +71,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ERETSBHC
 
-[Document2]
+[Document3]
 DocumentPath=..\Schematic\MCU and Digital Interfaces.SchDoc
-=======
->>>>>>> Stashed changes
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -74,7 +88,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YCSIATXH
 
-[Document3]
+[Document4]
 DocumentPath=..\Schematic\Connectors and Inputs.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -138,7 +152,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for Motor Driver Board 2019-2020
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
