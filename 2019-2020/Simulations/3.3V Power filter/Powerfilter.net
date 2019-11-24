@@ -1,0 +1,10 @@
+* P:\Uoe\Electrical\Motor-Driver\2019-2020\Simulations\3.3V Power filter\Powerfilter.asc
+L1 N001 N002 120m Ipk=0.069 Rser=150
+C1 N002 0 21µ.µ
+C2 N001 0 21.1µ
+V1 N001 0 3.3 AC 1
+R1 N002 0 100k
+.ac dec 1000 1 200k
+;.tran 0 10m 0 10u
+.backanno
+.end
