@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : MPT-04-01-XX-X-RA-SD.LibPkg
+
+Section : P:\Uoe\Electrical\Motor-Driver\Part Libraries\ECAR_Refrence_Libary\OTHER\MPT-04-01-XX-X-RA-SD.lia
+    Section : PCB Library - MPT-04-01-XX-X-RA-SD.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token isVisible On Line 129
+            Warning - 1 : Skipping Token MPT-04-01-XX-X-RA-SD On Line 163
+            Warning - 1 : Skipping Token attachedSymbol On Line 437
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - MPT-04-01-XX-X-RA-SD.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 95
+            Warning - 1 : Skipping Token layerContents On Line 123
+            Warning - 1 : Skipping Token layerContents On Line 131
+            Warning - 1 : Skipping Token layerContents On Line 146
+        EndSection
+
+        Section : Generating SCH Library - MPT-04-01-XX-X-RA-SD.SchLib
+        EndSection
+    EndSection
+EndSection
