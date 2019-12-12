@@ -2,8 +2,42 @@
 FileName = Power_Board_Layout_V2.GBR
 AutoAperture = True
 *************************************************************
+Generating : Bottom Overlay
+      File : Power_Board_Layout_V2.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Power_Board_Layout_V2.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Power_Board_Layout_V2.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
 Generating : Top Layer
-      File : Power_Board_Layout_V2_Copper_Signal_Top.gbr
+      File : Power_Board_Layout_V2.GTL
 
     Adding Layer      : Top Layer
 
@@ -11,11 +45,7 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D10
     D11
-    D12
-    D13
-    D14
     D15
     D16
     D17
@@ -35,6 +65,65 @@ Used DCodes :
     D31
     D32
     D33
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+*************************************************************
+
+*************************************************************
+Generating : Power
+      File : Power_Board_Layout_V2.GP2
+
+    Adding Layer      : Power
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D62
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Power_Board_Layout_V2.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
     D34
     D35
     D36
@@ -50,18 +139,6 @@ Used DCodes :
     D46
     D47
     D48
-*************************************************************
-
-*************************************************************
-Generating : GND
-      File : Power_Board_Layout_V2_Copper_Plane_1.gbr
-
-    Adding Layer      : GND
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
     D49
     D50
     D51
@@ -76,139 +153,49 @@ Used DCodes :
     D60
     D61
     D62
+    D63
+    D64
+    D65
 *************************************************************
 
 *************************************************************
-Generating : Power
-      File : Power_Board_Layout_V2_Copper_Plane_2.gbr
+Generating : Mechanical 15
+      File : Power_Board_Layout_V2.GM15
 
-    Adding Layer      : Power
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Mechanical 15
 
 
 Used DCodes :
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
+    D14
+    D98
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : Power_Board_Layout_V2_Copper_Signal_Bot.gbr
+Generating : Board Outline
+      File : Power_Board_Layout_V2.GM2
 
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Board Outline
 
 
 Used DCodes :
-    D29
-    D31
-    D32
-    D33
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
+    D97
 *************************************************************
 
 *************************************************************
-Generating : Bottom Pad Master
-      File : Power_Board_Layout_V2_Pads_Bot.gbr
+Generating : Mechanical 13
+      File : Power_Board_Layout_V2.GM13
 
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Mechanical 13
 
 
 Used DCodes :
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-*************************************************************
-
-*************************************************************
-Generating : Top Pad Master
-      File : Power_Board_Layout_V2_Pads_Top.gbr
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D11
-    D12
     D13
     D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : Power_Board_Layout_V2_Legend_Bot.gbr
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
 *************************************************************
 
 *************************************************************
 Generating : Bottom Solder
-      File : Power_Board_Layout_V2_Soldermask_Bot.gbr
+      File : Power_Board_Layout_V2.GBS
 
     Adding Layer      : Bottom Solder
 
@@ -218,53 +205,24 @@ Generating : Bottom Solder
 
 
 Used DCodes :
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
     D63
     D64
     D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : Power_Board_Layout_V2_Paste_Bot.gbr
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : Power_Board_Layout_V2_Legend_Top.gbr
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D49
-    D76
-    D77
-    D78
-    D79
 *************************************************************
 
 *************************************************************
 Generating : Top Paste
-      File : Power_Board_Layout_V2_Paste_Top.gbr
+      File : Power_Board_Layout_V2.GTP
 
     Adding Layer      : Top Paste
 
@@ -274,11 +232,6 @@ Generating : Top Paste
 
 
 Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
     D15
     D16
     D17
@@ -293,38 +246,69 @@ Used DCodes :
     D26
     D27
     D28
+    D29
+    D30
+    D31
+    D32
+    D33
 *************************************************************
 
 *************************************************************
-Generating : Top Solder
-      File : Power_Board_Layout_V2_Soldermask_Top.gbr
+Generating : Top Overlay
+      File : Power_Board_Layout_V2.GTO
 
-    Adding Layer      : Top Solder
+    Adding Layer      : Top Overlay
 
-    Adding Layer      : Top Layer
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Power_Board_Layout_V2.GBL
+
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D63
-    D64
-    D65
-    D66
-    D67
+    D11
     D68
     D69
     D70
-    D71
     D72
     D73
     D74
     D75
+    D76
+    D77
+    D78
+    D79
     D80
     D81
     D82
     D83
     D84
+*************************************************************
+
+*************************************************************
+Generating : GND
+      File : Power_Board_Layout_V2.GP1
+
+    Adding Layer      : GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D62
     D85
     D86
     D87
@@ -336,135 +320,5 @@ Used DCodes :
     D93
     D94
     D95
-    D96
-    D97
-    D98
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : Power_Board_Layout_V2_Keep-out.gbr
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 13
-      File : Power_Board_Layout_V2_Mechanical_13.gbr
-
-    Adding Layer      : Mechanical 13
-
-
-Used DCodes :
-    D77
-    D79
-*************************************************************
-
-*************************************************************
-Generating : Assembly Top
-      File : Power_Board_Layout_V2_Mechanical_9.gbr
-
-    Adding Layer      : Assembly Top
-
-
-Used DCodes :
-    D79
-*************************************************************
-
-*************************************************************
-Generating : Courtyard Top
-      File : Power_Board_Layout_V2_Mechanical_11.gbr
-
-    Adding Layer      : Courtyard Top
-
-
-Used DCodes :
-    D79
-    D99
-*************************************************************
-
-*************************************************************
-Generating : Board Outline
-      File : Power_Board_Layout_V2_Mechanical_2.gbr
-
-    Adding Layer      : Board Outline
-
-
-Used DCodes :
-    D100
-*************************************************************
-
-*************************************************************
-Generating : 3D Body Top
-      File : Power_Board_Layout_V2_Mechanical_14.gbr
-
-    Adding Layer      : 3D Body Top
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Assembly Bottom
-      File : Power_Board_Layout_V2_Mechanical_10.gbr
-
-    Adding Layer      : Assembly Bottom
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : 3D Body Bottom
-      File : Power_Board_Layout_V2_Mechanical_17.gbr
-
-    Adding Layer      : 3D Body Bottom
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : Power_Board_Layout_V2_Mechanical_1.gbr
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Courtyard Bottom
-      File : Power_Board_Layout_V2_Mechanical_12.gbr
-
-    Adding Layer      : Courtyard Bottom
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 15
-      File : Power_Board_Layout_V2_Mechanical_15.gbr
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D79
-    D99
-*************************************************************
-
-*************************************************************
-Generating : Profile
-      File : Power_Board_Layout_V2_Profile.gbr
-
-
-Used DCodes :
-    D101
 *************************************************************
 

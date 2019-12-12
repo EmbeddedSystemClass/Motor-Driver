@@ -1,13 +1,26 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [MOSFET Board Project.PrjPCB]
-   Generated File[Power_Board_Layout_V2-RoundHoles.TXT]
-   Generated File[Power_Board_Layout_V2-SlotHoles.TXT]
-   Generated File[Power_Board_Layout_V2.LDP]
-   Generated File[Power_Board_Layout_V2.DRR]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [MOSFET Board Project.PrjPCB]
+   Generated File[Power_Board_Layout_V2.GTO]
+   Generated File[Power_Board_Layout_V2.GTP]
+   Generated File[Power_Board_Layout_V2.GTS]
+   Generated File[Power_Board_Layout_V2.GTL]
+   Generated File[Power_Board_Layout_V2.GP1]
+   Generated File[Power_Board_Layout_V2.GP2]
+   Generated File[Power_Board_Layout_V2.GBL]
+   Generated File[Power_Board_Layout_V2.GBS]
+   Generated File[Power_Board_Layout_V2.GBP]
+   Generated File[Power_Board_Layout_V2.GBO]
+   Generated File[Power_Board_Layout_V2.GM1]
+   Generated File[Power_Board_Layout_V2.GM2]
+   Generated File[Power_Board_Layout_V2.GM13]
+   Generated File[Power_Board_Layout_V2.GM15]
+   Generated File[Power_Board_Layout_V2.RUL]
+   Generated File[Power_Board_Layout_V2.EXTREP]
+   Generated File[Power_Board_Layout_V2.REP]
 
 
-Files Generated   : 4
+Files Generated   : 17
 Documents Printed : 0
 
-Finished Output Generation At 10:47:18 PM On 2/5/2019
+Finished Output Generation At 6:27:10 PM On 12/9/2019

@@ -1,33 +1,23 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: Power_Board_Layout_V2.GBR   2/5/2019  10:44:47 PM
+Gerber File Extension Report For: Power_Board_Layout_V2.GBR   12/9/2019  6:27:10 PM
 ------------------------------------------------------------------------------------------
 
 
 ------------------------------------------------------------------------------------------
 Layer Extension     Layer Description                      
 ------------------------------------------------------------------------------------------
-.gbr                Top Layer                               
-.gbr                GND                                     
-.gbr                Power                                   
-.gbr                Bottom Layer                            
-.gbr                Bottom Pad Master                       
-.gbr                Top Pad Master                          
-.gbr                Bottom Overlay                          
-.gbr                Bottom Solder                           
-.gbr                Bottom Paste                            
-.gbr                Top Overlay                             
-.gbr                Top Paste                               
-.gbr                Top Solder                              
-.gbr                Keep-Out Layer                          
-.gbr                Mechanical 13                           
-.gbr                Assembly Top                            
-.gbr                Courtyard Top                           
-.gbr                Board Outline                           
-.gbr                3D Body Top                             
-.gbr                Assembly Bottom                         
-.gbr                3D Body Bottom                          
-.gbr                Mechanical 1                            
-.gbr                Courtyard Bottom                        
-.gbr                Mechanical 15                           
-.gbr                Profile                                 
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                Top Layer                               
+.GP1                GND                                     
+.GP2                Power                                   
+.GBL                Bottom Layer                            
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM1                Mechanical 1                            
+.GM2                Board Outline                           
+.GM13               Mechanical 13                           
+.GM15               Mechanical 15                           
 ------------------------------------------------------------------------------------------
