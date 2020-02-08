@@ -245,66 +245,46 @@ DocumentPath=Project Outputs for Motor Driver Board 2019-2020\BLDC-2020.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Motor Driver Board 2019-2020\BLDC-2020.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for Motor Driver Board 2019-2020\BLDC-2020_Copper_Signal_1.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for Motor Driver Board 2019-2020\BLDC-2020_Copper_Signal_2.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for Motor Driver Board 2019-2020\BLDC-2020_Copper_Signal_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for Motor Driver Board 2019-2020\BLDC-2020_Copper_Signal_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument11]
 DocumentPath=Project Outputs for Motor Driver Board 2019-2020\BLDC-2020_Legend_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for Motor Driver Board 2019-2020\BLDC-2020_Legend_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for Motor Driver Board 2019-2020\BLDC-2020_Pads_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for Motor Driver Board 2019-2020\BLDC-2020_Pads_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for Motor Driver Board 2019-2020\BLDC-2020_Paste_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for Motor Driver Board 2019-2020\BLDC-2020_Paste_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for Motor Driver Board 2019-2020\BLDC-2020_Profile.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for Motor Driver Board 2019-2020\BLDC-2020_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for Motor Driver Board 2019-2020\BLDC-2020_Soldermask_Top.gbr
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for Motor Driver Board 2019-2020\Design Rule Check - BLDC-2020.html
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for Motor Driver Board 2019-2020\Pick Place for BLDC-2020.txt
 DItemRevisionGUID=
 
@@ -1435,8 +1415,8 @@ PartTypes=0
 
 [NetInfos]
 Net1=NetName=VBATT|NetColor=$009E34D0
-Net2=NetName=3.3V|NetColor=$00CDA2D2
-Net3=NetName=5V|NetColor=$0077204E
+Net2=NetName=5V|NetColor=$0077204E
+Net3=NetName=3.3V|NetColor=$00CDA2D2
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
