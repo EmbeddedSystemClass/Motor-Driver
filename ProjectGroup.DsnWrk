@@ -1,6 +1,6 @@
 [ProjectGroup]
 Version=1.0
 [Project1]
-ProjectPath=2019-2020\Motor Driver Board 2019-2020\Motor Driver Board 2019-2020.PrjPcb
+ProjectPath=..\ShellECO-Com-System\Hardware\ShellECO-Com-System\ShellECO-Com-System.PrjPcb
 [Project2]
 ProjectPath=Part Libraries\ECAR_Refrence_Libary\ECar Reference LIbary.LibPkg
